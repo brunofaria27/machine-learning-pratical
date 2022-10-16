@@ -1,4 +1,4 @@
-<h1> <strong> ETAPA 1 (18/09) </strong> </h1>
+<h1> <strong> ETAPA 2 (18/09) </strong> </h1>
 
 - Identificação de outlier, inconsistência, visualização dos dados, balanceamento, normalização, redução de dimensionalidade, discretização.
 

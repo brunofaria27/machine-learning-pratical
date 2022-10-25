@@ -1,16 +1,15 @@
 <h1> Trabalho Prático de Machine Learning: </h1>
 Relatório para aplicação de aprendizado de máquina para a resolução de um problema.
 
+<strong> DataSets </strong>
+Para o trabalho principal foi utilizado o DataSet de detecção de fumaça em ambientes, porém a precisão dos algoritmos de Machine Learning estão muito altas. Com isso um DataSet secundário foi pegado, armazenado na pasta `Counter-Strike`, temos um DataSet cujo o intuito é descobrir quem é o vencedor da rodada.
+
 ---------------------------------------------
-
-<strong> Cronograma de atividades: </strong>
-- <strong> 18/09 (3 pontos): </strong> Descrição da base de dados e implementação de um algoritmo de aprendizagem na base escolhida.
-- <strong> 02/10 (3 pontos): </strong> Realização das etapas de pré-processamento na base de dados.
-- <strong> 16/10 (3 pontos): </strong> Implementação de mais um algoritmo de aprendizado na base escolhida.
-- <strong> 30/10 (2 pontos): </strong> Pequena contextualização.
-- <strong> 13/11 (3 pontos): </strong> Realização de etapas de pré-processamento na base de dados a fim de melhorar ainda mais os resultados e investigar o funcionamento de mais um aprendizado de máquina.
-- <strong> 04/12 (6 pontos): </strong> Relatório final em formato ACM, feito em LateX.
-
+<strong> Links importantes: </strong>
+- [Documentação (Editável) - Smoke Detection - Latex](https://www.overleaf.com/1528971434yqygnbfyryrd)
+- [DataSet - Smoke Detection - Kaggle](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset)
+- [Documentação (Editável) - Counter-Strike - Latex](https://www.overleaf.com/5387334631vyfgyhfhsvwn)
+- [DataSet - Counter-Strike - Kaggle](https://www.kaggle.com/datasets/christianlillelund/csgo-round-winner-classification?resource=download)
 ---------------------------------------------
 
 <strong> Para o relatório final os seguintes tópicos devem ser abordados: </strong>

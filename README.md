@@ -2,12 +2,11 @@
 Relatório para aplicação de aprendizado de máquina para a resolução de um problema.
 
 <strong> DataSets </strong>
-Para o trabalho principal foi utilizado o DataSet de detecção de fumaça em ambientes, porém a precisão dos algoritmos de Machine Learning estão muito altas. Com isso um DataSet secundário foi pegado, armazenado na pasta `Counter-Strike`, temos um DataSet cujo o intuito é descobrir quem é o vencedor da rodada.
+Para o trabalho principal foi utilizado o DataSet armazenado na pasta `Counter-Strike`, temos um DataSet cujo o intuito é descobrir quem é o vencedor da rodada.
 
 ---------------------------------------------
 <strong> Links importantes: </strong>
-- [Documentação (Editável) - Smoke Detection - Latex](https://www.overleaf.com/1528971434yqygnbfyryrd)
-- [DataSet - Smoke Detection - Kaggle](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset)
+
 - [Documentação (Editável) - Counter-Strike - Latex](https://www.overleaf.com/5387334631vyfgyhfhsvwn)
 - [DataSet - Counter-Strike - Kaggle](https://www.kaggle.com/datasets/christianlillelund/csgo-round-winner-classification?resource=download)
 ---------------------------------------------

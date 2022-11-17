@@ -7,7 +7,7 @@ Para o trabalho principal foi utilizado o DataSet armazenado na pasta `Counter-S
 ---------------------------------------------
 <strong> Links importantes: </strong>
 
-- [Documentação (Editável) - Counter-Strike - Latex](https://www.overleaf.com/5387334631vyfgyhfhsvwn)
+- [Documentação (Visualizar) - Counter-Strike - Latex](https://www.overleaf.com/read/xnvssjdrkhqt)
 - [DataSet - Counter-Strike - Kaggle](https://www.kaggle.com/datasets/christianlillelund/csgo-round-winner-classification?resource=download)
 ---------------------------------------------
 
